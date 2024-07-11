@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
