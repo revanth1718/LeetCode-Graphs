@@ -58,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
