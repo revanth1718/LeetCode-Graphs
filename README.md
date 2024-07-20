@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
+| [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
 ## Number Theory
 |  |
 | ------- |
