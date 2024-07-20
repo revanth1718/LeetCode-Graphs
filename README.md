@@ -11,6 +11,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
+| [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## String
 |  |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
+| [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -70,6 +73,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
+| [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
@@ -102,4 +106,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 <!---LeetCode Topics End-->
