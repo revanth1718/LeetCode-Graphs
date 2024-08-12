@@ -80,6 +80,7 @@
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -87,6 +88,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -114,6 +116,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
@@ -136,4 +139,16 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
