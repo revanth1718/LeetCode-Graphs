@@ -6,6 +6,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
@@ -68,6 +69,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
