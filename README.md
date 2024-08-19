@@ -17,6 +17,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -30,6 +31,7 @@
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -128,6 +130,7 @@
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
+| [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Design
 |  |
