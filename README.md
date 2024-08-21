@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
+| [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
 |  |
