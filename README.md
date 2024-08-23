@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
@@ -157,6 +158,7 @@
 | [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Memoization
