@@ -134,6 +134,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
