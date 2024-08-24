@@ -24,6 +24,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -161,6 +162,7 @@
 | [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
 ## Memoization
 |  |
 | ------- |
