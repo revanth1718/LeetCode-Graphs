@@ -23,6 +23,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
+| [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
@@ -108,6 +109,7 @@
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
+| [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 ## Tree
 |  |
@@ -135,6 +137,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Backtracking
 |  |
@@ -207,4 +210,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
