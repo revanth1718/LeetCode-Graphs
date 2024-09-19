@@ -101,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
@@ -198,6 +199,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
@@ -223,6 +225,7 @@
 | [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0213-house-robber-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -231,6 +234,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 ## Graph
 |  |
 | ------- |
@@ -294,6 +298,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
