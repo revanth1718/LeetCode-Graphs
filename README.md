@@ -72,6 +72,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1894-merge-strings-alternately](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -100,6 +101,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
@@ -221,6 +223,7 @@
 | [0087-scramble-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
