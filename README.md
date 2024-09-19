@@ -64,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1894-merge-strings-alternately](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
