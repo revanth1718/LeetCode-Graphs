@@ -11,6 +11,7 @@
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0213-house-robber-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -268,6 +270,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 ## Prefix Sum
