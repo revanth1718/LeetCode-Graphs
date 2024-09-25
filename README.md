@@ -40,6 +40,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
@@ -117,6 +118,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Design
 |  |
 | ------- |
@@ -322,4 +325,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
