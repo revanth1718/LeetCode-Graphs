@@ -18,6 +18,7 @@
 | [0216-combination-sum-iii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
@@ -83,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0729-my-calendar-i) |
@@ -94,6 +97,7 @@
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
@@ -209,6 +213,7 @@
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
@@ -314,6 +319,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
