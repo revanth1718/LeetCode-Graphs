@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -238,6 +239,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
@@ -338,6 +340,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
