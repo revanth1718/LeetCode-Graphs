@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0075-sort-colors) |
@@ -172,6 +173,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -221,6 +223,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
