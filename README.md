@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -162,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
