@@ -13,6 +13,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0213-house-robber-ii) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
@@ -98,6 +100,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
@@ -265,6 +268,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -334,6 +338,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
