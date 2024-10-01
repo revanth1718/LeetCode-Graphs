@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0053-maximum-subarray) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
