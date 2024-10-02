@@ -20,6 +20,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
