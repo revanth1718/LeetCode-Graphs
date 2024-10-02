@@ -74,6 +74,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -245,6 +246,7 @@
 | [0504-base-7](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 ## Number Theory
 |  |
