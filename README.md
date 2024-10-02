@@ -236,6 +236,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0216-combination-sum-iii) |
 ## Math
 |  |
