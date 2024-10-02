@@ -5,13 +5,14 @@ public:
      int s= 0, maxi = INT_MIN;
      for(int i =0;i<n ;i++){
         s += nums[i];
+        if(s >maxi){
+            maxi = s;
+        }
         if(s <0){
             s = 0;
 
         }
-        if(s >maxi){
-            maxi = s;
-        }
+        
      }
      return maxi;
         
