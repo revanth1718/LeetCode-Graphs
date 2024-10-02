@@ -40,6 +40,7 @@
 | [0729-my-calendar-i](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [1325-path-with-maximum-probability](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1325-path-with-maximum-probability) |
@@ -277,6 +278,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
@@ -362,6 +364,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
