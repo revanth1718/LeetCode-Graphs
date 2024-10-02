@@ -41,6 +41,7 @@
 | [0729-my-calendar-i](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
@@ -103,6 +104,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0392-is-subsequence) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0917-boats-to-save-people](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -133,6 +135,7 @@
 | [0539-minimum-time-difference](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
+| [0917-boats-to-save-people](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0917-boats-to-save-people) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
@@ -175,6 +178,7 @@
 | [0605-can-place-flowers](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0917-boats-to-save-people) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
 ## Simulation
