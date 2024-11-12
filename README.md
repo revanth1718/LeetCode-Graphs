@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0217-contains-duplicate) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -359,6 +361,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0731-my-calendar-ii) |
@@ -425,4 +428,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1002-maximum-width-ramp) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
