@@ -69,6 +69,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -213,6 +214,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -292,6 +294,7 @@
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1325-path-with-maximum-probability) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 ## Dynamic Programming
 |  |
