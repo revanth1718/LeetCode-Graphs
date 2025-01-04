@@ -98,6 +98,7 @@
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -178,6 +179,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -389,6 +391,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
@@ -412,6 +415,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
