@@ -67,6 +67,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2465-shifting-letters-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2601-number-of-great-partitions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2601-number-of-great-partitions) |
@@ -184,6 +185,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2465-shifting-letters-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -392,6 +394,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
