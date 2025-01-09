@@ -63,6 +63,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
+| [2058-concatenation-of-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -221,6 +222,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0735-asteroid-collision) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2271-rearrange-array-elements-by-sign) |
