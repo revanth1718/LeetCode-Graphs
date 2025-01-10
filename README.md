@@ -49,6 +49,7 @@
 | [0890-lemonade-change](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0952-word-subsets](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
@@ -91,6 +92,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1207-delete-nodes-and-return-forest) |
@@ -173,6 +175,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0726-number-of-atoms) |
+| [0952-word-subsets](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
