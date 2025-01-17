@@ -76,6 +76,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
+| [2792-neighboring-bitwise-xor](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2846-robot-collisions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -425,6 +426,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2792-neighboring-bitwise-xor](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2792-neighboring-bitwise-xor) |
 ## Brainteaser
 |  |
 | ------- |
