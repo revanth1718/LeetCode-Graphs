@@ -57,6 +57,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1635-number-of-good-pairs) |
@@ -240,6 +241,7 @@
 | [0054-spiral-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0063-unique-paths-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1253-sort-the-matrix-diagonally) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1677-matrix-diagonal-sum) |
 | [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
@@ -310,6 +312,7 @@
 | [0347-top-k-frequent-elements](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1325-path-with-maximum-probability) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2728-sum-in-a-matrix](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2728-sum-in-a-matrix) |
 ## Dynamic Programming
@@ -344,11 +347,13 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/revanth1718/LeetCode-Graphs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -381,6 +386,7 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/revanth1718/LeetCode-Graphs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2035-count-sub-islands](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
