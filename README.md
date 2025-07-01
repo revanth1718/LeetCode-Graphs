@@ -195,6 +195,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/revanth1718/LeetCode-Graphs/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3617-find-the-original-typed-string-i](https://github.com/revanth1718/LeetCode-Graphs/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
 |  |
 | ------- |
